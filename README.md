@@ -1,5 +1,6 @@
 # 🖥️ Netdata Monitoring
 
+<!--https://roadmap.sh/projects/simple-monitoring-dashboard-->>
 Este proyecto tiene como objetivo aprender los fundamentos del monitoreo en tiempo real usando **Netdata** en sistemas Linux. Se practica tanto la instalación y configuración manual como la automatización mediante scripts.
 
 ---
